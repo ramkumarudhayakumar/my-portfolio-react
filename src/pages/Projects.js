@@ -110,7 +110,8 @@ export default function Projects() {
                 </div>
                 <div className="d-flex justify-content-evenly mt-3">
                   <motion.a
-                    href=""
+                    href="https://github.com/ramkumarudhayakumar/my-portfolio-react.git"
+                    target="blank"
                     className="text-decoration-none project-button"
                     variants={btnVariants}
                     whileHover="hover"
@@ -119,7 +120,7 @@ export default function Projects() {
                     Git Hub
                   </motion.a>
                   <motion.a
-                    href=""
+                    href="https://my-portfolio-118a6.web.app/"
                     className="text-decoration-none project-button"
                     variants={btnVariants}
                     whileHover="hover"
